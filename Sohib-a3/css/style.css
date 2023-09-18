@@ -1,0 +1,9 @@
+header {
+    background-image: url(../img/photo-1440778303588-435521a205bc.jpg);
+    height: 85vh;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    z-index: -2;
+}

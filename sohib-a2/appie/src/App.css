@@ -1,0 +1,352 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@500&display=swap');
+
+
+.navbar .navbar-brand {
+  margin-right: 150px;
+}
+
+.navbar .collapse .navbar-nav .nav-item .nav-link {
+  margin-right: 40px;
+  color: #000;
+  font-family: 'Tajawal', sans-serif;
+  font-size: 15px;
+}
+
+.navbar .login {
+  color: #000;
+}
+
+.navbar .login,
+.navbar .get-started {
+  text-decoration: none;
+  margin-right: 15px;
+  font-family: 'Tajawal', sans-serif;
+  font-size: 15px;
+}
+
+.hero-section {
+  padding: 40px 0;
+}
+
+.hero-section .hero-section-data {
+  margin-top: 100px;
+}
+
+.hero-section .hero-section-data span {
+  color: #4481f8;
+}
+
+.hero-section .hero-section-data h1 {
+  font-weight: bold;
+  font-size: 60px;
+  margin: 25px 0;
+}
+
+.hero-section .hero-section-data0 p {
+  width: 80%;
+  margin: 30px 0;
+}
+
+.hero-section .hero-section-data button:nth-last-of-type(1) {
+  background-color: transparent;
+  color: #000;
+  border: 1px solid #000;
+  padding: 10px 35px;
+  margin-right: 20px;
+}
+
+.hero-section .hero-section-data button:nth-last-of-type(2) {
+  background-color: #0E1133;
+  color: #fff;
+  border: 1px solid #000;
+  padding: 10px 35px;
+  margin-right: 10px;
+}
+
+.hero-section .hero-section-image {
+  background-color: #ff3666;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.ses h1 {
+  text-align: center;
+}
+
+.ses p {
+  text-align: center;
+}
+
+.hero-section .hero-section-data button:nth-last-of-type(1) i {
+  padding-right: 6px;
+
+}
+
+.hero-section .hero-section-data button:nth-last-of-type(2) i {
+  padding-right: 6px;
+}
+
+.navbar i {
+  margin-right: 9px;
+  margin-top: 3px;
+}
+
+.steps {
+  padding: 100px 0;
+  background-color: #EEF1F6;
+}
+
+.steps h2 {
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.steps p {
+  font-size: 15px;
+}
+
+
+.steps .steps-item {
+  background-color: #fff;
+  padding: 60px 20px;
+}
+
+.steps .steps-item .bg-img {
+  background: linear-gradient(135deg, #84bcfa, #2b70fa);
+  width: min-content;
+  margin: 10px auto;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.steps .steps-item .bg-img1 {
+  background: linear-gradient(135deg, #f7b8af, #f8452d);
+  width: min-content;
+  margin: 10px auto;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.steps .steps-item .bg-img2 {
+  background: linear-gradient(135deg, #a0eac2, #31c369);
+  width: min-content;
+  margin: 10px auto;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.steps .steps-item .bg-img3 {
+  background: linear-gradient(135deg, #d8aaff, #9b2cfa);
+  width: min-content;
+  margin: 10px auto;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.about {
+  padding: 80px 0;
+}
+
+.about ul {
+  margin-top: 150px;
+}
+
+.about ul li {
+  list-style: none;
+  margin: 20px 0;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.about .about-data {
+  margin-top: 150px;
+  padding-left: 50px;
+}
+
+.about .about-data span {
+  color: #4481f8;
+
+}
+
+.about .about-data h2 {
+  font-size: 40px;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.about .about-data button {
+  background-color: #4481f8;
+  color: #fff;
+  padding: 10px 30px;
+}
+
+.traffic {
+  padding: 50px 0;
+  background-color: #f6f6f6;
+}
+
+.traffic span {
+  color: #4481f8;
+  margin: 10px 0;
+  display: inline-block;
+}
+
+.traffic h2 {
+  font-size: 50px;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.traffic h3 {
+  font-size: 25px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.traffic button {
+  padding: 10px 50px;
+  border: 2px solid #ccc;
+}
+
+.traffic img {
+  position: absolute;
+  right: 0px;
+}
+
+.testimonials {
+  background-color: #4481f8;
+  color: #fff;
+  margin: 40px 0;
+  text-align: center;
+}
+
+.testimonials img {
+  width: 10% !important;
+  height: 10%;
+  border-radius: 50%;
+  margin: 20px auto;
+}
+
+.testimonials p {
+  width: 70%;
+  margin: 20px auto;
+}
+
+.testimonials .carousel-item {
+  padding: 80px 0;
+}
+
+.team {
+  padding: 100px 0;
+}
+
+.team h4 {
+  font-weight: bold;
+  font-size: 60px;
+
+}
+
+.team p {
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+.team h5 {
+  margin-top: 30px;
+}
+
+.team span {
+  font-size: 15px;
+}
+
+.team img {
+  width: 100%;
+}
+
+.team .team-member-image {
+  position: relative;
+}
+
+.team .team-member-overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  opacity: 0;
+  transition: 0.5s;
+}
+
+
+.team .team-member-image:hover .team-member-overlay {
+  background-color: #000;
+  opacity: 0.5;
+}
+
+.team .view-members {
+  border: 1px solid #ccc;
+  padding: 10px 35px;
+  margin-top: 50px;
+}
+
+.plan {
+  background-color: #EEF1F6;
+  padding: 100px 0;
+}
+
+.plan h2 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.plan p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.plan .plan-item {
+  background-color: #fff;
+padding: 60px 20px;
+border-radius: 10px;
+}
+
+.plan .plan-item span {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 35px;
+  display: inline-block;
+}
+
+.plan .plan-item h3 {
+  font-weight: lighter;
+}
+
+.plan .plan-item h3 b {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.plan .plan-item h4 {
+  font-weight: lighter;
+  font-size: 17px;
+}
+
+.plan .plan-item ul li {
+  margin: 10px 0;
+}
+
+.plan .plan-item button {
+  border: 2px solid #ccc;
+  padding: 10px 35px;
+}
+
+.plan .plan-item .btn-orange {
+  padding: 11px 35px;
+  background-color: #f8452d;
+  color: #fff;
+  border: 0;
+}
+.blog .btn{
+  color: blue
+}

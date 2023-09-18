@@ -1,0 +1,38 @@
+.herosection h2{
+  font-size: 30px;
+  color: red;
+  margin-top: 25px;
+  margin-left: 70px;
+}
+.herosection h1{
+  font-size: 35px;
+  font-weight: 600;
+  margin-top: 100px;
+  margin-left: 70px;
+  color: #071e55;
+
+}
+.herosection p{
+  margin-left: 70px;
+font-size: 18px;
+margin-top: 25px;
+}
+.herosection a{
+  color: rgb(37, 37, 37);
+  margin-left: 70px;
+  margin-top: 40px;
+
+}
+.herosection img{
+  width: 756px;
+  border-radius: 28px;
+  height: 600px;
+  padding-right: 0px;
+}
+.btn{
+    background-color: #e52a3d;
+    border-radius: 50px;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+}

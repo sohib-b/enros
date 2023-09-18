@@ -1,0 +1,20 @@
+header{
+
+background-image: url(../img/2000_5cdbfc5e601f7.jpg);
+height: 87vh;
+background-size: cover;
+position: relative;
+background-repeat: no-repeat;
+background-position: center;
+z-index: -2;
+}
+.ow{
+    background-color: #000;
+    opacity: 0.5;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+    z-index: -1;
+}
